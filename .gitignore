@@ -177,4 +177,5 @@ cython_debug/
 .pypirc
 
 # Project files and folders
-dataset/
+checkpoints/
+data/
