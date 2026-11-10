@@ -15,8 +15,13 @@ This project is structured with **starter code with ToDos** in both python modul
 ## Project Structure
 
 ```text
-project /
-|-- data /
+docs /
+|-- 1. Project Overview.md
+|-- 2. Instructions.md
+|-- 3. Rubric.md
+|-- 4. Candidate Notes.md
+starter /
+|-- data_utils /
     |-- dataloader.py
 |-- model /
     |-- __init__.py
@@ -35,7 +40,10 @@ project /
 |-- 01_cGAN_training.ipynb
 |-- 02_diffusion_training.ipynb
 |-- 03_evaluation.ipynb
-|-- README.md
+__init__.py
+.gitignore
+LICENSE.md
+README.md
 ```
 
 ### Data /
